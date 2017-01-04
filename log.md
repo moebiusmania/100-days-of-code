@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 2: January 4, 2017
+
+**Today's Progress**: Worked on the demo page and actions for the `<tumblr-feed>` web component.
+
+**Thoughts:** Still need to figure out how to publish with NPM with more than one account.
+
+**Link to work:** [Tumblr Feed demo page](https://moebiusmania.github.io/tumblr-feed/)
+
 ### Day 1: January 3, 2017
 
 **Today's Progress**: Finished and distributed a `<tumblr-feed>` web component built in SkateJS.
