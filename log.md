@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 5, 2017
+
+**Today's Progress**: First attempt of deploying a Ghost installation on Heroku.
+
+**Thoughts:** I'm in the process of developing a Ghost theme that uses its internal APIs for something that it isn't a blog, unfortunately I haven't been able to deploy it on Heroku with a Postgres DB but only with a SQLlite, so given Heroku functionality this will not be a way to permanently store data. I will figure out other ways in the coming days.
+
+**Link to work:** [Employees Directory demo](https://ghost-employees-directory.herokuapp.com/)
+
 ### Day 2: January 4, 2017
 
 **Today's Progress**: Worked on the demo page and actions for the `<tumblr-feed>` web component.
