@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 6, 2017
+
+**Today's Progress**: Setting up the repo for the first 3 lessons of a base React course.
+
+**Thoughts:** Lots of boilerplate... but it seems now its sort of a standard regardless of the framework you choose.
+
+**Link to work:** [Mohole/Modern-js-03-react](https://github.com/mohole/modern-js-03-react)
+
 ### Day 3: January 5, 2017
 
 **Today's Progress**: First attempt of deploying a Ghost installation on Heroku.
