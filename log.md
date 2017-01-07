@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 7, 2017
+
+**Today's Progress**: Continuing on the repo for the React course.
+
+**Thoughts:** Lots of improvements since the last time I had used React "seriously", but still prefer good'ol native Web Components :-) .
+
+**Link to work:** [Mohole/Modern-js-03-react](https://github.com/mohole/modern-js-03-react)
+
 ### Day 4: January 6, 2017
 
 **Today's Progress**: Setting up the repo for the first 3 lessons of a base React course.
