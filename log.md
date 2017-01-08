@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 8, 2017
+
+**Today's Progress**: Forked an Atom package repo and continuing on the repo for the React course.
+
+**Thoughts:** I want to dig a little bit into the Atom package development... too bad there is a lot of Coffeescript to handle with :( first attempt will be to adapt a simple one I wrote for Brackets years ago.
+
+**Link to work:** [Mohole/Modern-js-03-react](https://github.com/mohole/modern-js-03-react
+
 ### Day 5: January 7, 2017
 
 **Today's Progress**: Continuing on the repo for the React course.
