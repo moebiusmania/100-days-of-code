@@ -6,7 +6,7 @@
 
 **Thoughts:** I want to dig a little bit into the Atom package development... too bad there is a lot of Coffeescript to handle with :( first attempt will be to adapt a simple one I wrote for Brackets years ago.
 
-**Link to work:** [Mohole/Modern-js-03-react](https://github.com/mohole/modern-js-03-react
+**Link to work:** [Mohole/Modern-js-03-react](https://github.com/mohole/modern-js-03-react)
 
 ### Day 5: January 7, 2017
 
