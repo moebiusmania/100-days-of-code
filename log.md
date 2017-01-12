@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 12, 2017
+
+**Today's Progress**: Published the ```tumblr-feed```web component on NPM registry!
+
+**Thoughts:** Unfortunately I wasn't been able to proceed on the challenge for a few days, but I have some other ideas for next ones!
+
+**Link to work:** [tumblr-feed (NPM)](https://www.npmjs.com/package/tumblr-feed)
+
 ### Day 6: January 8, 2017
 
 **Today's Progress**: Forked an Atom package repo and continuing on the repo for the React course.
