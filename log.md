@@ -5,7 +5,7 @@
 
 **Today's Progress**: Getting started with Hapi.js from official docs and online courses.
 
-**Thoughts:** I really appreciate the ease of use of this framework, until now it seems very funny to use. Maybe I will dig a bit more on NodeJS development thanks to Hapi.
+**Thoughts:** I really appreciate the ease of use of this framework, until now it seems very funny to use. Maybe I will dig a bit more on NodeJS development thanks to Hapi. I had also did my first deploy on [Zeit's Now](https://zeit.co/now)... very cool!
 
 **Link to work:** [Learn Hapi.js](https://github.com/moebiusmania/learn-hapi)
 
