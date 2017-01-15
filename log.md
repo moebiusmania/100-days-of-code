@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+
+### Day 8: January 15, 2017
+
+**Today's Progress**: Getting started with Hapi.js from official docs and online courses.
+
+**Thoughts:** I really appreciate the ease of use of this framework, until now it seems very funny to use. Maybe I will dig a bit more on NodeJS development thanks to Hapi.
+
+**Link to work:** [Learn Hapi.js](https://github.com/moebiusmania/learn-hapi)
+
 ### Day 7: January 12, 2017
 
 **Today's Progress**: Published the ```tumblr-feed```web component on NPM registry!
