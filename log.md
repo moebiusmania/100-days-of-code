@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
 
+### Day 9: January 16, 2017
+
+**Today's Progress**: Working on a new module for the React course.
+
+**Thoughts:** It's a classic todo application, but since we have just got started, this is a nice example about interaction between different components. I'm planning to combine React and Hapi for the next module and a small lessone about NodeJS.
+
+**Link to work:** [Modern JS 03 - React Todo](https://github.com/mohole/modern-js-03-react-todo)
+
 ### Day 8: January 15, 2017
 
 **Today's Progress**: Getting started with Hapi.js from official docs and online courses.
