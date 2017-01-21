@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
 
+### Day 10: January 21, 2017
+
+**Today's Progress**: Continuing on learning Hapi.
+
+**Thoughts:** I'm continuing the egghead.io course, then I will continue with a Pluralsight one and an official tutorial I have forked today. It's really a fun framework!
+
+**Link to work:** [Learn Hapi.js](https://github.com/moebiusmania/learn-hapi)
+
 ### Day 9: January 16, 2017
 
 **Today's Progress**: Working on a new module for the React course.
