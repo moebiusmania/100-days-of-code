@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 22, 2017
+
+**Today's Progress**: New files for the React course.
+
+**Thoughts:** Almost finished the classical "todo app" for the React course, this is the middle part of this basic course. I still think React is over-complicating easy tasks and this is another reason why I want to try out the Vue.js framework during the #100daysofcode.
+
+**Link to work:** [Modern JS 03 - React Todo](https://github.com/mohole/modern-js-03-react-todo)
 
 ### Day 10: January 21, 2017
 
