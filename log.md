@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 12: January 23, 2017
+
+**Today's Progress**: Still learning Hapi.
+
+**Thoughts:** Today's topic: views! I really wanted to have this thing available many years ago :D
+
+**Link to work:** [Learn Hapi.js](https://github.com/moebiusmania/learn-hapi)
+
 ### Day 11: January 22, 2017
 
 **Today's Progress**: New files for the React course.
