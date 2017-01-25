@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 25, 2017
+
+**Today's Progress**: Starting a small project in Hapi.
+
+**Thoughts:** I'm building a simple backend in NodeJS and Hapi for the next lessons in the Javascript course, and it will be very much like that it will become a course itself!
+
+**Link to work:** [MMDB backend](https://github.com/mohole/mmdb-backend)
+
 ### Day 12: January 23, 2017
 
 **Today's Progress**: Still learning Hapi.
@@ -95,15 +103,3 @@
 **Thoughts:** I have enjoyed building a web component in a different framwork, SkateJS is nice, still needs some improvements but in the overall is good. Tumblr JSON APIs are really ugly.
 
 **Link to work:** [Tumblr Feed](https://github.com/moebiusmania/tumblr-feed)
-
-
-<!-- ### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
--->
