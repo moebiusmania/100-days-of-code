@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 14: January 26, 2017
+
+**Today's Progress**: Continue working on the first Hapi project.
+
+**Thoughts:** I'm trying to connect to a MongoDB database hostend on MLab, i didnt find an "out-of-the-box" solution or guide about, so I'm using Mongoose.
+
+**Link to work:** [MMDB backend](https://github.com/mohole/mmdb-backend)
+
 ### Day 13: January 25, 2017
 
 **Today's Progress**: Starting a small project in Hapi.
