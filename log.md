@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 28, 2017
+
+**Today's Progress**: Small progress on the Hapi project, begin a new unpublished one.
+
+**Thoughts:** Continuing with Hapi for the small backend for the Javascript courses, while I've started a project on a Yammer twitter-like client for the company where I work at. The Yammer API's are easy, but having authentication working was I bit challenging due to poor documentation.
+
+**Link to work:** [MMDB backend](https://github.com/mohole/mmdb-backend)
+
 ### Day 14: January 26, 2017
 
 **Today's Progress**: Continue working on the first Hapi project.
