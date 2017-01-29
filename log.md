@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 16: January 29, 2017
+
+**Today's Progress**: Finished functionalities in Hapi application.
+
+**Thoughts:** Now the application handle all the basic CRUD operations with the MongoDB database as REST endpoints, this is really nice way of developing! Next steps will be adding some validation and error handlings, better code organization, mayber Swagger UI and deploy somewhere (I think on Heroku).
+
+**Link to work:** [MMDB backend](https://github.com/mohole/mmdb-backend)
+
 ### Day 15: January 28, 2017
 
 **Today's Progress**: Small progress on the Hapi project, begin a new unpublished one.
