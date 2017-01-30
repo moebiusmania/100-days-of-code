@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 17: January 30, 2017
+
+**Today's Progress**: Continuing React course.
+
+**Thoughts:** I have completed the "Todo" lesson and I'm preparing the next one, the excercise that will use the HapiJS backend finished yesterday.
+
+**Link to work:** [Modern JS 03 - React Todo](https://github.com/mohole/modern-js-03-react-todo)
+
 ### Day 16: January 29, 2017
 
 **Today's Progress**: Finished functionalities in Hapi application.
